@@ -13,8 +13,6 @@ Desenvolver um **MVP funcional (simulado e documentado)** de um **Dispensador de
 ---
 
 ## 👥 Papéis (4 membros)
-> Se quiser, substitua “Membro 1..4” por nomes.
-
 ### Membro 1 — Firmware & Arquitetura (ESP32/FreeRTOS/Wokwi)
 - Máquina de estados, integração geral, drivers no simulador, logs e organização do repositório.
 
